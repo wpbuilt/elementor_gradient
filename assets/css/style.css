@@ -1,0 +1,4 @@
+.elementor-gradient-text-wrapper {
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
